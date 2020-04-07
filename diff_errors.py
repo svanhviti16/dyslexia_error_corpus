@@ -63,7 +63,7 @@ def read_sentences(file_object):
 
 
 def get_error_type():
-    
+    """Receives user input. Accepts the dictionary keys or new values if a new category is needed."""
     error_value = input("Hvaða villuflokkur? ")
     # if one of the predetermined categories
     if error_value in error_types.keys():
@@ -74,11 +74,10 @@ def get_error_type():
     
 
 def find_differences(original_sentences, reviewed_sentences):
-
+    """Compares the original and reviewed sentences using difflib"""
     for idx, sentence in enumerate(original_sentences):
         for key, value in error_types.items():
             print(f"{key}: {value}")
-        #print(sentence)
         original = sentence
         print(" ".join(original))
 
@@ -102,6 +101,7 @@ def find_differences(original_sentences, reviewed_sentences):
                         result.append(f'<err type="{error_type}"></err>')        
                     result.append(f'<corr type="{error_type}">{word[2:].strip()}</corr>')
                 except:
+                    # todo: needs to account for errors at sentence start
                     print("babb í bátinn")
             elif word[0] == '?':
                 pass
@@ -118,7 +118,6 @@ def find_differences(original_sentences, reviewed_sentences):
  
 def main():
 
-
     original_text_filename = sys.argv[1]
     reviewed_text_filename = sys.argv[2]
  
@@ -129,7 +128,6 @@ def main():
     reviewed_sentences = read_sentences(reviewed_file_object)
 
     find_differences(original_sentences, reviewed_sentences)
-
 
 if __name__ == '__main__':
   main()
