@@ -1,0 +1,96 @@
+DOCSTRUCTURE "doc"
+ENCODING "UTF-8"
+INFO "Small error corpus for Icelandic"
+LANGUAGE "Icelandic"
+LPOSLIST ""
+NAME "error_corpus"
+PATH "/corpora/ca/user_data/svanhvit/manatee/error_corpus"
+REFCORPUS "icelandic_sample"
+TAGSETDOC ""
+TERMBASE "none"
+TERMDEF ""
+VERTICAL "| ca_getvertical '/corpora/ca/user_data/svanhvit/registry/error_corpus' 'doc'"
+WPOSLIST ""
+WSBASE "none"
+WSDEF ""
+WSMINHITS ""
+WSTHES ""
+ATTRIBUTE "word" {
+}
+ATTRIBUTE "lc" {
+    ARG1 "C"
+    DYNAMIC "utf8lowercase"
+    DYNLIB "internal"
+    DYNTYPE "index"
+    FROMATTR "word"
+    FUNTYPE "s"
+    LABEL "word (lowercase)"
+    TRANSQUERY "yes"
+}
+STRUCTURE "s" {
+}
+STRUCTURE "g" {
+    DISPLAYBEGIN "_EMPTY_"
+    DISPLAYTAG "0"
+}
+STRUCTURE "err" {
+    DEFAULTLOCALE "C"
+    ENCODING "UTF-8"
+    LANGUAGE ""
+    NESTED ""
+    ATTRIBUTE "type" {
+        DYNTYPE "index"
+        ENCODING "UTF-8"
+        LOCALE "C"
+        MULTISEP ","
+        MULTIVALUE "n"
+        TYPE "MD_MI"
+    }
+    DISPLAYTAG 0
+    DISPLAYBEGIN "<err type="%(type)">"
+    DISPLAYEND "|"
+    DISPLAYCLASS "concred"
+}
+STRUCTURE "corr" {
+    DEFAULTLOCALE "C"
+    ENCODING "UTF-8"
+    LANGUAGE ""
+    NESTED ""
+    ATTRIBUTE "type" {
+        DYNTYPE "index"
+        ENCODING "UTF-8"
+        LOCALE "C"
+        MULTISEP ","
+        MULTIVALUE "n"
+        TYPE "MD_MI"
+    }
+    DISPLAYTAG 0
+    DISPLAYBEGIN ""
+    DISPLAYEND "</err>"
+    DISPLAYCLASS "concgreen"
+}
+STRUCTURE "doc" {
+    DEFAULTLOCALE "C"
+    ENCODING "UTF-8"
+    LANGUAGE ""
+    NESTED ""
+    ATTRIBUTE "id" {
+        DYNTYPE "index"
+        ENCODING "UTF-8"
+        LABEL "File ID"
+        LOCALE "C"
+        MULTISEP ","
+        MULTIVALUE "n"
+        TYPE "MD_MI"
+        UNIQUE "1"
+    }
+    ATTRIBUTE "filename" {
+        DYNTYPE "index"
+        ENCODING "UTF-8"
+        LABEL "File name"
+        LOCALE "C"
+        MULTISEP ","
+        MULTIVALUE "n"
+        TYPE "MD_MI"
+    }
+}

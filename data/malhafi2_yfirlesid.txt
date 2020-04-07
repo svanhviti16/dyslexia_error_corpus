@@ -1,0 +1,89 @@
+Einnig getur starfsmaður farið inn í „Pakkar“ og séð þar yfirlit yfir alla rétti sem þegar eru inni í kerfinu og fengið upp ákveðnar vikur eða ár. 
+Ef hann ýtir á „Réttur“ fær hann réttina í stafrófsröð og ef hann ýtir á „Pakki“ fær hann upplýsingarnar raðaðar eftir pökkum. 
+Hann getur líka ýtt á „Skoða“ og séð nánari upplýsingar um réttinn, og hann getur ýtt á „Eyða“ til að eyða rétti.
+Ef notandinn velur að skrá sig inn af forsíðunni þá kemur upp þessi pop-up gluggi. 
+Hann biður notanda um að skrá sig inn með notandanafni eða netfangi og lykilorði og velja svo „Skrá inn“.
+Ef notandi fer með músina yfir „Matseðill“ opnast fellilisti með valkostunum „Næsta vika“ og „Fyrri vikur“. 
+Ef notandi er ekki með aðgang getur hann valið að búa til reikning. 
+Ef notandi valdi „Næsta vika“ kemur þetta upp. 
+Þar sér hann alla pakka sem eru í boði og myndir af öllum réttunum. 
+Á þessari síðu er hægt að velja að kaupa pakka beint og kemur þá upp pop-up gluggi sem spyr fyrir hversu marga pakkinn er, og svo er valið að setja hann í körfu. 
+Ef notandi vill skoða nánar hvern rétt sem er í boði ýtir hann á þann rétt sem hann vill skoða.
+Ef notandi valdi að ýta á rétt kemur upp þessi síða þar sem hann getur séð nánari upplýsingar um réttinn, m.a. innihaldsefni og næringarupplýsingar. 
+Ef notandi vill svo skoða aðra rétti ýtir hann bara á myndirnar sem eru til hægri og getur þannig flakkað á milli rétta. 
+Hér inni getur notandi einnig valið að kaupa pakka og ýtir hann þá á hnappana sem á stendur „Kaupa pakka“. 
+Þá fær notandi upp sama pop-up glugga og sýndur var á myndinni á undan sem spyr fyrir hversu marga pakkinn sé, og þar bætir hann pakkanum í körfuna.
+Þegar notandi er búinn að setja pakka í körfu er honum vísað beint inn á þessa síðu sem sýnir honum hvað hann er búinn að velja, hversu marga pakka hann er að kaupa og verðið á þeim. 
+Ef viðskiptavinur ætlar sér ekki að velja pakka getur hann hér eytt pakkanum út og farið aftur hvert sem hann vill í gegnum valmyndina fyrir ofan. 
+Ef hann breytir magninu handvirkt þarf hann að uppfæra körfuna. 
+Ef hann er sáttur við það sem er í körfunni velur hann að greiða. 
+Ef notandi er ekki búinn að skrá sig inn þegar hingað er komið og hann velur „Greiða“ kemur upp pop-up glugginn sem sýndur var áðan.
+Þegar notandi velur að greiða fer hann beint inn á þessa síðu sem spyr hann nánar út í pöntunina, eins og hvort hann vilji sækja eða fá sent heim. 
+Ef notandi velur heimsendingu breytist samtalan niðri í samræmi við það sem það kostar að láta senda.  
+Einnig velur hann hvaða dag hann vill fá matinn og hvort hann vilji koma í áskrift. 
+Svo ýtir hann á „Skrá greiðsluupplýsingar“. 
+Ef notandi valdi ekki dag til að fá matinn kemst hann ekki í næsta skref fyrr en hann er búinn að ýta á einhvern af þeim 4 dögum sem eru í boði.
+Ég byrjaði í tölvunarfræði við Háskólann í Reykjavík því mig langaði til að takast á við ný og spennandi verkefni. 
+Sem hluti af námi mínu hef ég unnið að fjölbreyttum verkefnum í ýmsum forritunarmálum, þar á meðal C\C++, C#, Java, Python og JavaScript. 
+Einnig vann ég að verkefnum sem byggðu á stöðugri samþættingu og þróun og sjálfvirkum prófunum. 
+Meðfram náminu hef ég líka tekið að mér dæmatímakennslu í þremur áföngum, þar var ég að aðstoða nemendur með verkefnavinnu þeirra. 
+Þetta voru annars vegar áfangarnir forritun og gagnaskipan, grunnforritunarkúrsar sem kenndir voru í C++, og hins vegar vefforitun, þar sem einblínt er á JavaScript, CSS, HTML, JSON/REST, bakendaforritun og bakendaprófanir. 					
+Á seinasta árinu mínu í HR fór ég í starfsnám í 6 mánuði til Maryland í Bandaríkjunum hjá fyrirtækinu Fraunhofer USA CESE. 
+Þar var ég bæði að vinna með fram- og bakendaforritun. 
+Fyrst var ég að vinna að vefsíðu þar sem læknar gátu fylgst með og haldið utan um heilsuupplýsingar um sjúklinga sína. 
+Þar notaði ég PHP, TypeScript, node.js og Docker. 
+Einnig vann ég að bakendaprófunum. 
+Svo var ég látin í að prófa mismunandi „framework“ fyrir farsíma (React Native, Flutter og Ionic) og halda svo kynningu um þær lausnir sem ég hafði prófað. 
+Eftir að hafa verið dæmatímakennari í vefforitun og eftir starfsnámið mitt langar mig til að halda áfram að vinna að veflausnum og ég hef mikinn áhuga að fá að gera það hjá einu stærsta hugbúnaðarfyrirtæki Íslands. 
+Ég vil halda áfram að bæta forritunarfærni mína og held að Advania væri fullkominn staður til að fá að gera það. 
+Advania er eitt af stærstu hugbúnaðarfyrirtækjum á Íslandi með fjölbreytt verkefni í gangi og hef ég heyrt eitt besta mötuneyti á landinu.
+Þar sem Advania er eitt af stærstu hugbúnaðarfyrirtækjunum á Íslandi og með fjölbreytt verkefni, þá tel ég að það væri fullkominn vinnustaður fyrir mig. 
+Ég hef mikinn áhuga á að bæta enn frekar við forritunargetu mína. 
+Einnig veit ég að Advania býður upp á gott starfsumhverfi og ekki verra að þar er eitt besta mötuneyti á landinu.
+Ég var að velta fyrir mér hvort þig vantaði starfsfólk á Skál! 
+Ég er mikil aðdáandi matarins og andrúmsloftsins þar. 
+Ég er að klára tölvunarfræði í vor úr HR og var líka að vinna sem dæmatímakennari þar. 
+Ég hef mikla reynslu af þjónustustörfum. 
+Þarsíðasta sumar vann ég í þjónustuveri Kópavogsbæjar og áður en ég varð dæmatímakennari var ég alltaf að vinna við þjónustustörf. 
+Ég vann í ísbúð í 4 ár og í Vínbúðinni í Smáralind í 2 ár og tók þar grunnnámskeið í vínfræðum. 
+Einnig var ég síðasta vor að vinna í stuttan tíma á Hilton, bæði aðeins á veitingastaðnum Vox, í veisluþjónustu og á barnum þar. 
+Ég læt ferilskrána mína fylgja með svo þú getir séð mynd af mér og upplýsingar um mig en hún er löguð að tölvunarfræði svo þess vegna vildi ég fara yfir þjónustubakgrunninn minn hér. 
+Við erum fyrirtækið Út í bláinn og við auðveldum ferðamönnum að fá bestu upplifun sem völ er á í ferð sinni um hringveg Íslands. 
+Við veitum ítarlegar upplýsingar um alla helstu staði sem ferðamenn vilja skoða. 
+Þetta er stór markaður og flestir sem koma til landsins leigja sér bíl í einhvern tíma. 
+Þarna kemur appið okkar að góðum notum. 
+Bílaleigur, gististaðir og flugfélög myndu borga fyrir sérhæfðar auglýsingar í appinu okkar.
+Ég er hreinskilin og hef mikinn metnað fyrir því að ná tökum á nýrri færni og lít á lífið sem eitt stórt tækifæri til að læra. 
+Ég er ákveðin og gefst ekki upp þó á móti blási. 
+Ég er stundvís og vinn vel í skipulögðu umhverfi, þar sem ég er sjálf skipulögð manneskja. 
+Ég á auðvelt með að vinna með öðrum og finnst mjög gaman að vinna í hóp.
+Ég hef mjög gaman af því að ferðast og kynnast nýjum menningarheimum og ferðaðist til dæmis til Suðaustur-Asíu í fjóra mánuði árið 2014. 
+Ég var eina önn í lýðháskóla (højskole) í Odder í Danmörku þar sem ég lagði áherslu á blaðamennsku og ljósmyndun. 
+Áhugamál mín eru meðal annars að prjóna, baka og elda, sem og hugleiðsla og almenn vellíðan.
+Dæmatímakennari
+Háskólinn í Reykjavík / Haust 2017 - 
+Þjónustuver
+Kópavogsbær / Sumar 2017
+Starfsmaður í þjónustuveri Kópavogsbæjar
+Sumarstörf
+Kópavogsbær / 2010 - 2016
+Mörg sumarstörf hjá Kópavogsbæ, allt frá því að vinna á leikjanámskeiðum með krökkum til sundlaugarvörslu. 
+Önnur störf
+Ýmis störf frá fimmtán ára aldri, mest afgreiðslustörf svo sem hjá Sambíóum, Erlu-ís og Vínbúðinni.
+Sigurbjörg H. Hauksdóttir / Yfir þjónustuveri
+Kópavogsbær / 441 0000
+Jakob Þorsteinsson / Forstöðumaður
+Sundlaugin í Kópavogi / 570 0470
+Tungumál
+Íslenska
+Enska
+Forsíðan. 
+Hér getur starfsmaður skráð sig inn á starfsmannasíðuna. 
+Hann velur þá hnappinn neðst til hægri, „Innskráning starfsmanna“
+Þegar hann er búinn að ýta á þann hnapp kemur upp pop-up gluggi sem biður hann um starfsmannanúmer og lykilorð. 
+Ef notandi gerir villu í innskráningu birtist glugginn aftur og segir að hann þurfi að skrá inn réttar upplýsingar.
+Þegar starfsmaður hefur skráð sig inn er hann kominn á innri vef starfsmanna. 
+Þar velur hann „Nýr pakki“ hér til hægri. 
+Þá birtist aðgerðin „Nýr pakki“ sem er sýnd hér á myndinni.
+Þar velur hann í hvaða viku hann vill bæta við pakka og þá hvernig pakka. 
+Eins og sést eru þrír réttir í boði fyrir hver pakka. 
